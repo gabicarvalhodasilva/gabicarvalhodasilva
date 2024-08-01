@@ -2,4 +2,4 @@
 
 meu nome e gabriele carvalho
 
--estiu estudando no alura
+-estudando no alura
